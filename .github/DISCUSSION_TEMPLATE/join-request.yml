@@ -29,8 +29,10 @@ body:
         If you have not already, be sure and read over these (open in a new window if you like):
         - [Code of Conduct - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CODE_OF_CONDUCT.md)
         - [Contributing - Innovate for Vegas Foundation](https://github.com/InnovateForVegas/.github/blob/main/CONTRIBUTING.md)
+        - [Linux Foundation Developer Certificate](https://developercertificate.org/)
 
-        These are our overall policies for our Foundation and its volunteer members and contributors.
+        These are our overall policies for our Foundation and its volunteer members and contributors, and apply to app participants
+        (The Developer Certificate still applies to non-coding creative works and contributions of time, effort, and expertise).
 
 
   - type: input
@@ -61,7 +63,9 @@ body:
           required: true
         - label: Organization Contributing policies
           required: true
-
+        - label: Developer Certificate
+          required: true
+  
   - type: markdown
     attributes:
       value: |
