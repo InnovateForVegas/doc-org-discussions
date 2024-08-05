@@ -93,6 +93,7 @@ body:
         - label: Software Development
         - label: Hardware Development
         - label: Co-Creation (end-user collaboration)
+        - label: Something else…
 
   - type: textarea
     attributes:
